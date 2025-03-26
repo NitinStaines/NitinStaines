@@ -1,3 +1,3 @@
-Aspiring **Software Developer | Full-Stack Engineer | AI/ML Enthusiast** with a passion for building innovative solutions. Avid learner who thrives on tackling challenging projects, continuously expanding skills, and pushing the boundaries of technology. Excited to collaborate, create, and make an impact through **problem-solving, development, and AI-driven innovations**. 🚀
+I'm a **pre-final year IT student** at **SSN College of Engineering**, passionate about **Software Development, Full-Stack Engineering, and AI/ML**. I love tackling challenges, building cool projects, and learning new tech.  
 
-A penultimate-year engineer from **SSN College of Engineering**.
+Outside of coding, I'm a **music enthusiast and guitarist**—jamming, experimenting with melodies, and exploring different genres keep me going. Always up for learning, creating, and pushing my limits! 🚀🎸
