@@ -5,3 +5,5 @@ Outside of coding, I'm a **music enthusiast and guitarist**—jamming, experimen
 Always up for **learning, creating, and pushing my limits!** 🚀🎸📷  
 
 ![Nitin Staines's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinStaines&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinStaines)](https://github.com/anuraghazra/github-readme-stats)
