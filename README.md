@@ -1,5 +1,2 @@
-Hey there, I’m @NitinStaines
-I am an aspiring Full Stack Dev.
-I'd love to work on any projects that involve SQL and Python!
-HMU on Instagram if you'd like to collaborate!
-
+An aspiring Software Developer/Full-Stack Engineer/AI-ML enthusiat and an avid learner who thrives to work in more projects with challenges.
+A penultimate-year engineer from SSN College of Engineering.
