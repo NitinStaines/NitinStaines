@@ -3,3 +3,5 @@ I'm a **pre-final year IT student** at **SSN College of Engineering**, passionat
 Outside of coding, I'm a **music enthusiast and guitarist**—jamming, experimenting with melodies, and exploring different genres keep me going. I'm also into **street photography**, capturing everyday moments, unique perspectives, and the beauty of urban life through my lens.  
 
 Always up for **learning, creating, and pushing my limits!** 🚀🎸📷  
+
+![Nitin Staines's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinStaines&hide=contribs,prs)
